@@ -24,6 +24,20 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/user-attachments/assets/875778d2-5fca-4614-a30f-738916485972)
+![image](https://github.com/user-attachments/assets/d75e8e2a-a739-43a3-8f23-203528547be1)
+![image](https://github.com/user-attachments/assets/a8e0e12d-0e41-404c-8dda-7be1f633a46a)
+![image](https://github.com/user-attachments/assets/16e403a6-ca1c-4366-9cb2-380036b0557f)
+![image](https://github.com/user-attachments/assets/f5ad1fd8-6ff8-4feb-8bf0-e1d517ef68df)
+![image](https://github.com/user-attachments/assets/861542f5-eae1-4d49-8738-8af5ec36cbf1)
+![image](https://github.com/user-attachments/assets/a5559ffd-d788-4703-953b-7970e36d410d)
+![image](https://github.com/user-attachments/assets/aeb31e9f-1b73-4482-8ba3-596e5d5663a9)
+![image](https://github.com/user-attachments/assets/9b5c2248-6883-4e1a-81da-527aec139a52)
+![image](https://github.com/user-attachments/assets/5f08b3f9-dcde-4c61-aaf0-92687a17e63b)
+![image](https://github.com/user-attachments/assets/169c1dfe-0866-4b33-a7e2-2de947db62c9)
+![Screenshot 2025-04-23 163911](https://github.com/user-attachments/assets/701fa595-96b1-4e6d-8b75-fd104ba77dce)
+![Uploading Screenshot 2025-04-23 163931.png…]()
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+Hence,The program executed successfully.
